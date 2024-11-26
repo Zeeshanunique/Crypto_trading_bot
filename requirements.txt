@@ -1,0 +1,6 @@
+openai
+streamlit
+pandas
+loguru
+python-dotenv
+flask
